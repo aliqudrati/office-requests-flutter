@@ -1,16 +1,47 @@
-# office_requests_app_flutter
+# 🏢 Office Requests App
 
-A new Flutter project.
+> A clean and professional Flutter application for managing office employee expense requests.
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)
+![Platform](https://img.shields.io/badge/Platform-Android-green)
+![Database](https://img.shields.io/badge/Database-SQLite-orange)
+![License](https://img.shields.io/badge/License-Private-red)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✨ Add employee requests  
+🏢 Grouped by departments  
+💰 Paid / Spent / Balance calculation  
+📊 Department total (based on Paid)  
+🧮 Grand total calculation  
+✏ Edit & delete request items  
+✅ Mark requests as completed  
+🔍 Search employees  
+📂 Filter by department  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠 Tech Stack
+
+- 💙 Flutter
+- 📦 SQFlite (SQLite Database)
+- 🎯 Material Design
+- 📱 Android APK
+
+---
+
+## 📸 Screenshots
+
+_Add screenshots here later_
+
+---
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/aliqudrati/office-requests-flutter.git
+cd office-requests-flutter
+flutter pub get
+flutter run
